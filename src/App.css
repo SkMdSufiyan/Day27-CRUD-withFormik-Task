@@ -40,3 +40,7 @@
 }
 
 
+/* Styling for suggestion at the top */
+.netlify-suggestion-p{
+  font-size: small;
+}
