@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.main-container{
+  margin-bottom: 200px;
+}
+
+.each-card-col{
+  margin: 20px 0px;
+}
+.card-text{
+  font-size: small;
+}
+.card-text > span{
+  margin: 0px 10px;
+}
+
+.action-buttons{
+  margin:0px 10px;
+}
+
+.main-buttons{
+  margin: 10px 20px;
+}
+
+.card-text{
+  margin: 0px 0px 0px 0px;
+}
+
+.form-labels{
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.text-area{
+  width:100%;
+}
+
+
